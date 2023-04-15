@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\85c0ddc48ccd333898d7945e630cd850\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\75dac9d2cb79cd954ae8fa20f2cfbaa9\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\f989753c66da63890b326692571ff346\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\afbcdb5fd626bcb10217c2a500dc033b\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\2182286a5d3de88c434f1c5bf8c45a15\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\a796944cf522ca3ba84d507dad38cd75\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\74d8a23a549f4ef4f9accaaea28fb45d\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\58a0c0ac8039acc5630bfedeaf645e30\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:9:9-40
+activity#de.hs_kl.imst.gatav.tilerenderer.MainGameActivity
+ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:10:9-14:20
+	android:screenOrientation
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:13:13-50
+	android:label
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:11:13-45
+activity#de.hs_kl.imst.gatav.tilerenderer.MainActivity
+ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:17:13-50
+	android:label
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\85c0ddc48ccd333898d7945e630cd850\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\85c0ddc48ccd333898d7945e630cd850\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\e84109ac2ca5f1f70f018c37652eb6ef\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\75dac9d2cb79cd954ae8fa20f2cfbaa9\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\75dac9d2cb79cd954ae8fa20f2cfbaa9\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\f989753c66da63890b326692571ff346\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\f989753c66da63890b326692571ff346\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\afbcdb5fd626bcb10217c2a500dc033b\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\afbcdb5fd626bcb10217c2a500dc033b\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\2182286a5d3de88c434f1c5bf8c45a15\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\2182286a5d3de88c434f1c5bf8c45a15\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\a796944cf522ca3ba84d507dad38cd75\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\a796944cf522ca3ba84d507dad38cd75\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\74d8a23a549f4ef4f9accaaea28fb45d\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\74d8a23a549f4ef4f9accaaea28fb45d\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\58a0c0ac8039acc5630bfedeaf645e30\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\retro\.gradle\caches\transforms-2\files-2.1\58a0c0ac8039acc5630bfedeaf645e30\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\retro\Documents\Android_Studio\TileRenderer_Current_Project\app\src\main\AndroidManifest.xml

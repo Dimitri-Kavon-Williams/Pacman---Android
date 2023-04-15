@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\retro\\Documents\\Android_Studio\\TileRenderer_Current_Project\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v12\\values-v12.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\retro\\.gradle\\caches\\transforms-2\\files-2.1\\85c0ddc48ccd333898d7945e630cd850\\appcompat-v7-27.0.2\\res\\values-v12\\values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        }
+    ]
+}

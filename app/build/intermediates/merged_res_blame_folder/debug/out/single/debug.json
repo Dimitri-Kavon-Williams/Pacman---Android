@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spritesheet_lasermove.png.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\drawable\\spritesheet_lasermove.png"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sw_background.jpg.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\drawable\\sw_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enemy3.png.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\drawable\\enemy3.png"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spirte_yodalasersword.png.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\drawable\\spirte_yodalasersword.png"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sprite_lasersword.png.flat",
+        "source": "C:\\Users\\dimi1\\GitHub\\Star Wars Pacman\\Star Wars Pacman\\app\\src\\main\\res\\drawable\\sprite_lasersword.png"
+    }
+]

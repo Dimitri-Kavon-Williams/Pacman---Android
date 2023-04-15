@@ -1,0 +1,186 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "appcompat-v7"
+    version: "27.0.2"
+  }
+  digests {
+    sha256: "\262\202^\213G\366e\3236-\204\201\310\321G\321\257\2220\321o#\242\271Ol\313\305<h\316\301"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-annotations"
+    version: "27.0.2"
+  }
+  digests {
+    sha256: "\257\0053\r\231~\271*\006e4\333\340\243\352$4}&\327\000\022!\t!\023\256\002\250\3623\332"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-core-utils"
+    version: "27.0.2"
+  }
+  digests {
+    sha256: "\266\234n\036w1\270v\271\020\374q\000\274\255\364\nW\362{2\312&\271\024\000\231UB\021,\226"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-fragment"
+    version: "27.0.2"
+  }
+  digests {
+    sha256: "\3445\203\210\002*\"\005wuu\247%\037\343W3FX\344\022=]n;\b/X\231\331\260\021"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-vector-drawable"
+    version: "27.0.2"
+  }
+  digests {
+    sha256: "\277OO\313\365\213\023\200ae\201\"Nd\207\3020\277\33344\3545=J\332\244\261\364\206\\\372"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "animated-vector-drawable"
+    version: "27.0.2"
+  }
+  digests {
+    sha256: "[\021z,\023\250\230\302\243\310LH\rd\355\317\254.\367 \252\233t,)$\237\254wO\374H"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-compat"
+    version: "27.0.2"
+  }
+  digests {
+    sha256: "\355M%\331\032\v\023\330\271\336\361\300\336i\355\003\327\373\211\325\017\263~\260\351\266;\f\367\244#W"
+  }
+}
+library {
+  maven_library {
+    groupId: "android.arch.lifecycle"
+    artifactId: "runtime"
+    version: "1.0.3"
+  }
+  digests {
+    sha256: "\320\263bx\207\214\202\2708\254\3040\205\225\276\306\032;_n\177*\3144\027-~\a\033,\362m"
+  }
+}
+library {
+  maven_library {
+    groupId: "android.arch.lifecycle"
+    artifactId: "common"
+    version: "1.0.3"
+  }
+  digests {
+    sha256: "\377\002\025\265N|\272\252\211\217\217\320\016&^\326\352\031\210Y\341\006\004\274\034^xG}\364\213\\"
+  }
+}
+library {
+  maven_library {
+    groupId: "android.arch.core"
+    artifactId: "common"
+    version: "1.0.0"
+  }
+  digests {
+    sha256: "Q\222\223L\327=\363.,\025r.\327\374H\215\336\220\272\256\311\256\003\000\020\335\032\200\373Nt\341"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support"
+    artifactId: "support-core-ui"
+    version: "27.0.2"
+  }
+  digests {
+    sha256: "\"\204\a%\021\251]PL\aM\350\f\202\3153rLm\'T\021x3\271\213\243\240\231\224\026>"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support.constraint"
+    artifactId: "constraint-layout"
+    version: "1.1.3"
+  }
+  digests {
+    sha256: "\'\264\345\300\270\r?\370\271/L\223\263\264\323\354\361l\001X\237L\337p\312|\366L\264-\201\""
+  }
+}
+library {
+  maven_library {
+    groupId: "com.android.support.constraint"
+    artifactId: "constraint-layout-solver"
+    version: "1.1.3"
+  }
+  digests {
+    sha256: ",\257\2765oq\302\b\001=\002\0372\2249\004y\214\326E\236Q\a\371\376\'\000\016\265\274*\357"
+  }
+}
+library_dependencies {
+  library_dep_index: 1
+  library_dep_index: 2
+  library_dep_index: 3
+  library_dep_index: 4
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 2
+  library_dep_index: 1
+  library_dep_index: 6
+}
+library_dependencies {
+  library_index: 6
+  library_dep_index: 1
+  library_dep_index: 7
+}
+library_dependencies {
+  library_index: 7
+  library_dep_index: 8
+  library_dep_index: 9
+}
+library_dependencies {
+  library_index: 3
+  library_dep_index: 6
+  library_dep_index: 10
+  library_dep_index: 2
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 10
+  library_dep_index: 1
+  library_dep_index: 6
+}
+library_dependencies {
+  library_index: 4
+  library_dep_index: 1
+  library_dep_index: 6
+}
+library_dependencies {
+  library_index: 5
+  library_dep_index: 4
+  library_dep_index: 10
+}
+library_dependencies {
+  library_index: 11
+  library_dep_index: 12
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 11
+}
